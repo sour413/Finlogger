@@ -21,6 +21,8 @@ function renderExpenseSummary() {
         row.appendChild(cell2);
         summaryTableBody.appendChild(row);
     });
+
+    console.log("Expense summary table rendered successfully." + expenseSummaryData.length);
 }
 
 // Update date format to "MMM DD, DDD"
@@ -93,6 +95,8 @@ function setCategoryDropdown() {
         op.value = item;
         categoryDropdown.appendChild(op);
     });
+
+    console.log("Category dropdown populated successfully." + expenseCategories.categories.length);
 }
 
 function addExpenseHandler() {
