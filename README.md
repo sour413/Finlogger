@@ -3,9 +3,6 @@
 A clean, responsive personal finance and expense-tracking web application built to log daily transactions, monitor monthly budgets, and visualize category-wise spending breakdowns.
 
 ![FinLogger Dashboard Preview](./images/proj-finlogger.png)
-*(Tip: Save a screenshot of your dashboard in an `assets/` folder to display it here!)*
-
----
 
 ## Features
 
