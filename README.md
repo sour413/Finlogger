@@ -39,8 +39,8 @@ Finlogger/
 └── README.md           # Project documentation
 
 ## Future Enhancements
-[ ] Persistent Storage / Backend Integration: Connect to a Node.js/Express REST API with MongoDB or localStorage for data persistence.
+ Persistent Storage / Backend Integration: Connect to a Node.js/Express REST API with MongoDB or localStorage for data persistence.
 
-[ ] Interactive Charts: Add visual pie/bar charts using Chart.js for spending trends.
+ Interactive Charts: Add visual pie/bar charts using Chart.js for spending trends.
 
-[ ] CSV / PDF Export: Allow users to download monthly financial statements.
+ CSV / PDF Export: Allow users to download monthly financial statements.
